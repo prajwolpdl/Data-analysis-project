@@ -1,0 +1,1 @@
+To view the dashboard open portfolio_project.pdf, it is not the interactive version. To view the interactive version download the powerbi file. The sql code used for data transformation and cleaning is in the .sql file
